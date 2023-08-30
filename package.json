@@ -1,7 +1,7 @@
 {
-  "name": "validation-example",
-  "description": "Vue.js Form Validation Example",
-  "author": "Alex Kyriakidis <hootlex@icloud.com>",
+  "name": "validation",
+  "description": "Vue.js Form Validation",
+  "author": "Habib",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
